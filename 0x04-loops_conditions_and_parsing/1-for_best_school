@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script displays "Best School" 10 times using a for loop.
+# This script displays "Best School" 10 times using a for loop. Made executable.
 for i in $(seq 1 10); do
     echo "Best School"
 done
