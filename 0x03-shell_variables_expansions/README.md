@@ -1,1 +1,1 @@
-This directory contains solutions for the 0x03-shell_variables_expansions project.
+this is another readme for this third project
